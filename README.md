@@ -1,4 +1,4 @@
-### This is learning of Rust Actix Web which is very fast
+### This is learning of Rust Actix Web
 
 ## I learned:
 ---
